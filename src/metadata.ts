@@ -1,0 +1,31 @@
+export const metadata = [
+  { path: "game/ovo", title: "OvO | Cosmic City" },
+  { path: "game/1v1-lol", title: "1v1.LOL | Cosmic City" },
+  { path: "game/2048", title: "2048 | Cosmic City" },
+  { path: "game/stickman-hook", title: "Stickman Hook | Cosmic City" },
+  { path: "game/drift-hunters", title: "Drift Hunters | Cosmic City" },
+  { path: "game/basketball-stars", title: "Basketball Stars | Cosmic City" },
+  { path: "game/minecraft", title: "Minecraft | Cosmic City" },
+  { path: "game/run-3", title: "Run 3 | Cosmic City" },
+  { path: "game/cookie-clicker", title: "Cookie Clicker | Cosmic City" },
+  { path: "game/slope", title: "Slope | Cosmic City" },
+  {
+    path: "game/worlds-hardest-game",
+    title: "World's Hardest Game | Cosmic City",
+  },
+  {
+    path: "game/worlds-hardest-game-2",
+    title: "World's Hardest Game 2 | Cosmic City",
+  },
+  {
+    path: "game/worlds-hardest-game-3",
+    title: "World's Hardest Game 3 | Cosmic City",
+  },
+  { path: "game/friday-night-funkin", title: "FNF | Cosmic City" },
+  { path: "game/mr-bullet", title: "Mr Bullet | Cosmic City" },
+  { path: "game/among-us", title: "Among Us | Cosmic City" },
+  { path: "/", title: "Cosmic City" },
+  { path: "games", title: "Cosmic City | Games" },
+  { path: "socials", title: "Cosmic City | Socials" },
+  { path: "*", title: "404" },
+];
