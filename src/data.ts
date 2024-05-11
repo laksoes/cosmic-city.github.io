@@ -71,7 +71,7 @@ export const data: DataTypes[] = [
     id: "slope-3",
     title: "Slope 3",
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZgEFhKeeQSULh2RAwgZAePJ1BLhrcPs9CWL1OOLy56A&s",
+      "https://cdn-8sm.b-cdn.net/files/uploads/images/2/slope-3.png",
     embed: "https://webglmath.github.io/slope-3/",
   },
   {
@@ -119,105 +119,98 @@ export const data: DataTypes[] = [
     id: "moto-x3m",
     title: "Moto X3M",
     image:
-      "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec",
+      "image/moto-x3m.png",
     embed: "https://webglmath.github.io/moto-x3m/",
   },
   {
     id: "eggy-car",
     title: "Eggy Car",
     image:
-      "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec",
+      "image/eggy-car.png",
     embed: "https://webglmath.github.io/eggy-car/",
   },
   {
     id: "bitlife",
     title: "Bitlife",
     image:
-      "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec",
+      "https://d.newsweek.com/en/full/1317374/bitlife-ribbons-how-get-all-complete-list-android-ios-cheats-guide-tips-become.jpg?w=1600&h=1600&q=88&f=75befc746fb83a0c568c44ca07bc5e64",
     embed: "https://xlegends.github.io/bitlife/",
   },
   {
     id: "penalty-kick-online",
     title: "Penalty Kick Online",
     image:
-      "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec",
+      "image/penalty-kicks.png",
     embed: "https://webglmath.github.io/penalty-kick-online/",
   },
   {
     id: "bottle-flip-3d",
     title: "Bottle Flip 3D",
     image:
-      "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec",
+      "https://play-lh.googleusercontent.com/sMpJpTPMtTMr9tfusBtbWIz_h2UdX3iwx8Ea4w6vJ-0vyFILvpIMj_JvwVSeS6Xq0bg",
     embed: "https://webglmath.github.io/bottle-flip-3d/",
   },
   {
     id: "candy-jump",
     title: "Candy Jump",
     image:
-      "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec",
+      "https://m.media-amazon.com/images/I/61607eqXRiL.png",
     embed: "https://webglmath.github.io/candy-jump/",
   },
   {
     id: "b-cubed",
     title: "B-Cubed",
     image:
-      "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec",
+      "image/b-cubed.png",
     embed: "https://webglmath.github.io/b-cubed/",
   },
   {
     id: "magikmon",
-    title: "Magicmon",
+    title: "Magikmon",
     image:
-      "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec",
+      "https://cdn-1.webcatalog.io/catalog/poki-magikmon/poki-magikmon-icon-filled-256.png?v=1714780275155",
     embed: "https://webglmath.github.io/magikmon/",
   },
   {
     id: "car-rush",
     title: "Car rush",
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZgEFhKeeQSULh2RAwgZAePJ1BLhrcPs9CWL1OOLy56A&s",
+      "https://www.primarygames.com/arcade/racing/carrush/logo200.png",
     embed: "https://webglmath.github.io/car-rush/",
   },
   {
     id: "jelly-truck",
     title: "Jelly Truck",
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZgEFhKeeQSULh2RAwgZAePJ1BLhrcPs9CWL1OOLy56A&s",
+      "https://y8online.github.io/jellytruck/assets/img/jellytruck/logo.png",
     embed: "https://webglmath.github.io/jelly-truck/",
   },
   {
     id: "monster-tracks",
     title: "Monster Tracks",
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZgEFhKeeQSULh2RAwgZAePJ1BLhrcPs9CWL1OOLy56A&s",
+      "image/monster-tracks.png",
     embed: "https://webglmath.github.io/monster-tracks/",
-  },
-  {
-    id: "basketball-legends",
-    title: "Basketball Legends",
-    image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZgEFhKeeQSULh2RAwgZAePJ1BLhrcPs9CWL1OOLy56A&s",
-    embed: "https://webglmath.github.io/basketball-legends/",
   },
   {
     id: "football-legends",
     title: "Football Legends",
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZgEFhKeeQSULh2RAwgZAePJ1BLhrcPs9CWL1OOLy56A&s",
+      "image/football-legends.png",
     embed: "https://webglmath.github.io/football-legends/",
   },
   {
     id: "block-the-pig",
     title: "Block The Pig",
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZgEFhKeeQSULh2RAwgZAePJ1BLhrcPs9CWL1OOLy56A&s",
+      "https://abinbins.github.io/thumb/block-the-pig.png",
     embed: "https://webglmath.github.io/block-the-pig/",
   },
   {
     id: "blumgi-rocket",
     title: "Blumgi Rocket",
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZgEFhKeeQSULh2RAwgZAePJ1BLhrcPs9CWL1OOLy56A&s",
+      "image/blumgi-rocket.png",
     embed: "https://webglmath.github.io/blumgi-rocket/",
   },
   {
