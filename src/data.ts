@@ -217,28 +217,28 @@ export const data: DataTypes[] = [
     id: "parking-fury-3",
     title: "Parking Fury 3",
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZgEFhKeeQSULh2RAwgZAePJ1BLhrcPs9CWL1OOLy56A&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqrBSDaDZ42JOv1Yowg18sdSRRVQoz3SfB4Uz4JJbgO3QrjFjnhGPun_OAgd-gJ3QPQFY&usqp=CAU",
     embed: "https://webglmath.github.io/parking-fury-3/",
   },
   {
     id: "retro-bowl",
     title: "Retro Bowl",
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZgEFhKeeQSULh2RAwgZAePJ1BLhrcPs9CWL1OOLy56A&s",
+      "image/retro-bowl.png",
     embed: "https://webglmath.github.io/retro-bowl/",
   },
   {
     id: "snake",
     title: "Snake",
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZgEFhKeeQSULh2RAwgZAePJ1BLhrcPs9CWL1OOLy56A&s",
+      "https://pixiapi.com/wp-content/uploads/2023/12/google-snake-game-icon.jpg",
     embed: "https://webglmath.github.io/snake/",
   },
   {
     id: "color-road",
     title: "Color Road",
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZgEFhKeeQSULh2RAwgZAePJ1BLhrcPs9CWL1OOLy56A&s",
+      "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-665495-52.jpg",
     embed: "https://webglmath.github.io/color-road/",
   },
 ];
