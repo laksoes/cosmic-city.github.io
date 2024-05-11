@@ -40,13 +40,6 @@ export const data: DataTypes[] = [
     embed: "https://cosmic-city.github.io/basketball-stars/",
   },
   {
-    id: "minecraft",
-    title: "Minecraft",
-    image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl75_2bTA1a12syvpzVha_Tnzz85TXkXekzg35uWyVqg&s",
-    embed: "https://cosmic-city.github.io/PrecisionClient-1.5.2/compiled/web/",
-  },
-  {
     id: "run-3",
     title: "Run 3",
     image:
@@ -70,34 +63,19 @@ export const data: DataTypes[] = [
   {
     id: "slope-3",
     title: "Slope 3",
-    image:
-      "https://cdn-8sm.b-cdn.net/files/uploads/images/2/slope-3.png",
-    embed: "https://webglmath.github.io/slope-3/",
-  },
-  {
-    id: "worlds-hardest-game",
-    title: "World's Hardest Game",
-    image:
-      "https://play-lh.googleusercontent.com/WoyHFBEgzmhlM0VCsmH3zPqPFquIYZHQLCbcpVOBKgY4ku7Xb3XIB7rMWwZ6oLsAACA",
-    embed: "https://webglmath.github.io/worlds-hardest-game/",
-  },
-  {
-    id: "worlds-hardest-game-2",
-    title: "World's Hardest Game 2",
-    image:
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple5/v4/ba/b0/8e/bab08e6f-da2e-ccc0-deaa-b08cbeeedcbc/mzl.xohfkibn.png/512x512bb.jpg",
-    embed: "https://webglmath.github.io/worlds-hardest-game-2/",
+    image: "/image/slope-3.png",
+    embed: "https://webglmath.github.io/slope3/",
   },
   {
     id: "worlds-hardest-game-3",
     title: "World's Hardest Game 3",
     image:
       "https://play-lh.googleusercontent.com/VJyKOCBuE9r08Cscw91kvcBpZHBduido-HW1kisyR50yrldHtWRgyXVudiITnnGxoDE",
-    embed: "https://webglmath.github.io/worlds-hardest-game-3/",
+    embed: "",
   },
   {
     id: "friday-night-funkin",
-    title: "FNF",
+    title: "Friday Night Funkin'",
     image: "/image/friday-night-funkin.png",
     embed: "https://boxing2.github.io/b88/friday-night-funkin/",
   },
@@ -105,7 +83,7 @@ export const data: DataTypes[] = [
     id: "mr-bullet",
     title: "Mr Bullet",
     image:
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/41/e2/f8/41e2f8e8-f2a5-34ea-ab12-426d63be2fcb/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg",
+      "https://play-lh.googleusercontent.com/qEnwkwPN4w5wiCC8ol8xTdyI-EAVXVHnPmD2u0qsZgL0enlBxgyyuGlL69mycqBWNac",
     embed: "https://webglmath.github.io/mr-bullet/",
   },
   {
@@ -118,30 +96,15 @@ export const data: DataTypes[] = [
   {
     id: "moto-x3m",
     title: "Moto X3M",
-    image:
-      "image/moto-x3m.png",
+    image: "image/moto-x3m.png",
     embed: "https://webglmath.github.io/moto-x3m/",
   },
   {
-    id: "eggy-car",
-    title: "Eggy Car",
-    image:
-      "image/eggy-car.png",
-    embed: "https://webglmath.github.io/eggy-car/",
-  },
-  {
     id: "bitlife",
-    title: "Bitlife",
+    title: "BitLife",
     image:
       "https://d.newsweek.com/en/full/1317374/bitlife-ribbons-how-get-all-complete-list-android-ios-cheats-guide-tips-become.jpg?w=1600&h=1600&q=88&f=75befc746fb83a0c568c44ca07bc5e64",
     embed: "https://xlegends.github.io/bitlife/",
-  },
-  {
-    id: "penalty-kick-online",
-    title: "Penalty Kick Online",
-    image:
-      "image/penalty-kicks.png",
-    embed: "https://webglmath.github.io/penalty-kick-online/",
   },
   {
     id: "bottle-flip-3d",
@@ -151,85 +114,15 @@ export const data: DataTypes[] = [
     embed: "https://webglmath.github.io/bottle-flip-3d/",
   },
   {
-    id: "candy-jump",
-    title: "Candy Jump",
+    id: "color-switch",
+    title: "Color Switch",
     image:
-      "https://m.media-amazon.com/images/I/61607eqXRiL.png",
+      "https://play-lh.googleusercontent.com/RigazRuX0cEjfUhomDJuCIQqEwTaFpo9P_BjZBMPXqGKpekqoAWpPxXyX6yfjo_59gQ",
     embed: "https://webglmath.github.io/candy-jump/",
   },
   {
-    id: "b-cubed",
-    title: "B-Cubed",
-    image:
-      "image/b-cubed.png",
-    embed: "https://webglmath.github.io/b-cubed/",
-  },
-  {
-    id: "magikmon",
-    title: "Magikmon",
-    image:
-      "https://cdn-1.webcatalog.io/catalog/poki-magikmon/poki-magikmon-icon-filled-256.png?v=1714780275155",
-    embed: "https://webglmath.github.io/magikmon/",
-  },
-  {
-    id: "car-rush",
-    title: "Car rush",
-    image:
-      "https://www.primarygames.com/arcade/racing/carrush/logo200.png",
-    embed: "https://webglmath.github.io/car-rush/",
-  },
-  {
-    id: "jelly-truck",
-    title: "Jelly Truck",
-    image:
-      "https://y8online.github.io/jellytruck/assets/img/jellytruck/logo.png",
-    embed: "https://webglmath.github.io/jelly-truck/",
-  },
-  {
-    id: "monster-tracks",
-    title: "Monster Tracks",
-    image:
-      "image/monster-tracks.png",
-    embed: "https://webglmath.github.io/monster-tracks/",
-  },
-  {
-    id: "football-legends",
-    title: "Football Legends",
-    image:
-      "image/football-legends.png",
-    embed: "https://webglmath.github.io/football-legends/",
-  },
-  {
-    id: "block-the-pig",
-    title: "Block The Pig",
-    image:
-      "https://abinbins.github.io/thumb/block-the-pig.png",
-    embed: "https://webglmath.github.io/block-the-pig/",
-  },
-  {
-    id: "blumgi-rocket",
-    title: "Blumgi Rocket",
-    image:
-      "image/blumgi-rocket.png",
-    embed: "https://webglmath.github.io/blumgi-rocket/",
-  },
-  {
-    id: "parking-fury-3",
-    title: "Parking Fury 3",
-    image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqrBSDaDZ42JOv1Yowg18sdSRRVQoz3SfB4Uz4JJbgO3QrjFjnhGPun_OAgd-gJ3QPQFY&usqp=CAU",
-    embed: "https://webglmath.github.io/parking-fury-3/",
-  },
-  {
-    id: "retro-bowl",
-    title: "Retro Bowl",
-    image:
-      "image/retro-bowl.png",
-    embed: "https://webglmath.github.io/retro-bowl/",
-  },
-  {
-    id: "snake",
-    title: "Snake",
+    id: "google-snake",
+    title: "Google Snake",
     image:
       "https://pixiapi.com/wp-content/uploads/2023/12/google-snake-game-icon.jpg",
     embed: "https://webglmath.github.io/snake/",
@@ -237,8 +130,7 @@ export const data: DataTypes[] = [
   {
     id: "color-road",
     title: "Color Road",
-    image:
-      "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-665495-52.jpg",
+    image: "/image/color-road.png",
     embed: "https://webglmath.github.io/color-road/",
   },
 ];

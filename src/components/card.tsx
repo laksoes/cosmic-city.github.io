@@ -27,7 +27,7 @@ function Card({ id }: { id: string }) {
               backgroundImage: `url("${game.image}")`,
             }}
           >
-            <span className="opacity-0 p-0 m-0 -bottom-1 transition-all duration-150 absolute group-hover:inline-block group-hover:bottom-0 group-hover:opacity-100 left-1/2 -translate-x-1/2 -translate-y-1/2 font-bold text-sm text-white [text-shadow:0px_0px_0.2rem_#000]">
+            <span className="opacity-0 px-0 mx-0 -bottom-1 transition-all duration-150 absolute group-hover:inline-block group-hover:bottom-0 group-hover:opacity-100 left-1/2 -translate-x-1/2 -translate-y-1/2 font-bold text-sm text-white [text-shadow:0px_0px_0.2rem_#000]">
               {game.title}
             </span>
           </div>
