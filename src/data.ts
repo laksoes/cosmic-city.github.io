@@ -68,6 +68,13 @@ export const data: DataTypes[] = [
     embed: "https://webglmath.github.io/slope/",
   },
   {
+    id: "slope-3",
+    title: "Slope 3",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZgEFhKeeQSULh2RAwgZAePJ1BLhrcPs9CWL1OOLy56A&s",
+    embed: "https://webglmath.github.io/slope-3/",
+  },
+  {
     id: "worlds-hardest-game",
     title: "World's Hardest Game",
     image:
@@ -107,5 +114,138 @@ export const data: DataTypes[] = [
     image:
       "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec",
     embed: "https://webglmath.github.io/among-us/",
+  },
+  {
+    id: "moto-x3m",
+    title: "Moto X3M",
+    image:
+      "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec",
+    embed: "https://webglmath.github.io/moto-x3m/",
+  },
+  {
+    id: "eggy-car",
+    title: "Eggy Car",
+    image:
+      "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec",
+    embed: "https://webglmath.github.io/eggy-car/",
+  },
+  {
+    id: "bitlife",
+    title: "Bitlife",
+    image:
+      "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec",
+    embed: "https://xlegends.github.io/bitlife/",
+  },
+  {
+    id: "penalty-kick-online",
+    title: "Penalty Kick Online",
+    image:
+      "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec",
+    embed: "https://webglmath.github.io/penalty-kick-online/",
+  },
+  {
+    id: "bottle-flip-3d",
+    title: "Bottle Flip 3D",
+    image:
+      "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec",
+    embed: "https://webglmath.github.io/bottle-flip-3d/",
+  },
+  {
+    id: "candy-jump",
+    title: "Candy Jump",
+    image:
+      "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec",
+    embed: "https://webglmath.github.io/candy-jump/",
+  },
+  {
+    id: "b-cubed",
+    title: "B-Cubed",
+    image:
+      "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec",
+    embed: "https://webglmath.github.io/b-cubed/",
+  },
+  {
+    id: "magikmon",
+    title: "Magicmon",
+    image:
+      "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec",
+    embed: "https://webglmath.github.io/magikmon/",
+  },
+  {
+    id: "car-rush",
+    title: "Car rush",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZgEFhKeeQSULh2RAwgZAePJ1BLhrcPs9CWL1OOLy56A&s",
+    embed: "https://webglmath.github.io/car-rush/",
+  },
+  {
+    id: "jelly-truck",
+    title: "Jelly Truck",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZgEFhKeeQSULh2RAwgZAePJ1BLhrcPs9CWL1OOLy56A&s",
+    embed: "https://webglmath.github.io/jelly-truck/",
+  },
+  {
+    id: "monster-tracks",
+    title: "Monster Tracks",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZgEFhKeeQSULh2RAwgZAePJ1BLhrcPs9CWL1OOLy56A&s",
+    embed: "https://webglmath.github.io/monster-tracks/",
+  },
+  {
+    id: "basketball-legends",
+    title: "Basketball Legends",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZgEFhKeeQSULh2RAwgZAePJ1BLhrcPs9CWL1OOLy56A&s",
+    embed: "https://webglmath.github.io/basketball-legends/",
+  },
+  {
+    id: "football-legends",
+    title: "Football Legends",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZgEFhKeeQSULh2RAwgZAePJ1BLhrcPs9CWL1OOLy56A&s",
+    embed: "https://webglmath.github.io/football-legends/",
+  },
+  {
+    id: "block-the-pig",
+    title: "Block The Pig",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZgEFhKeeQSULh2RAwgZAePJ1BLhrcPs9CWL1OOLy56A&s",
+    embed: "https://webglmath.github.io/block-the-pig/",
+  },
+  {
+    id: "blumgi-rocket",
+    title: "Blumgi Rocket",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZgEFhKeeQSULh2RAwgZAePJ1BLhrcPs9CWL1OOLy56A&s",
+    embed: "https://webglmath.github.io/blumgi-rocket/",
+  },
+  {
+    id: "parking-fury-3",
+    title: "Parking Fury 3",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZgEFhKeeQSULh2RAwgZAePJ1BLhrcPs9CWL1OOLy56A&s",
+    embed: "https://webglmath.github.io/parking-fury-3/",
+  },
+  {
+    id: "retro-bowl",
+    title: "Retro Bowl",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZgEFhKeeQSULh2RAwgZAePJ1BLhrcPs9CWL1OOLy56A&s",
+    embed: "https://webglmath.github.io/retro-bowl/",
+  },
+  {
+    id: "snake",
+    title: "Snake",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZgEFhKeeQSULh2RAwgZAePJ1BLhrcPs9CWL1OOLy56A&s",
+    embed: "https://webglmath.github.io/snake/",
+  },
+  {
+    id: "color-road",
+    title: "Color Road",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZgEFhKeeQSULh2RAwgZAePJ1BLhrcPs9CWL1OOLy56A&s",
+    embed: "https://webglmath.github.io/color-road/",
   },
 ];
