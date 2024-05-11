@@ -124,7 +124,7 @@ export const data: DataTypes[] = [
     id: "google-snake",
     title: "Google Snake",
     image:
-      "https://pixiapi.com/wp-content/uploads/2023/12/google-snake-game-icon.jpg",
+      "https://pixiapi.com/wp-content/uploads/2024/01/google-snake-favicon.jpg",
     embed: "https://webglmath.github.io/snake/",
   },
   {
