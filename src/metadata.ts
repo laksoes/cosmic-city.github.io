@@ -35,6 +35,23 @@ export const metadata = [
   { path: "game/vex-6", title: "Vex 6 | Cosmic City" },
   { path: "game/duck-life-3", title: "Duck Life 3 | Cosmic City" },
   { path: "game/duck-life-4", title: "Duck Life 4 | Cosmic City" },
+  { path: "game/funny-shooter", title: "Funny Shooter | Cosmic City" },
+  { path: "game/geometry-dash", title: "Geometery Dash | Cosmic City" },
+  { path: "game/drive-mad", title: "Drive Mad | Cosmic City" },
+  { path: "game/swingo", title: "Swingo | Cosmic City" },
+  { path: "game/tag", title: "Tag | Cosmic City" },
+  {
+    path: "game/henry-stickman-std",
+    title: "Stealing The Diamond | Cosmic City",
+  },
+  {
+    path: "game/henry-stickman-etp",
+    title: "Escaping The Prison | Cosmic City",
+  },
+  {
+    path: "game/henry-stickman-ftc",
+    title: "Fleeing The Complex | Cosmic City",
+  },
   { path: "/", title: "Cosmic City" },
   { path: "games", title: "Cosmic City | Games" },
   { path: "socials", title: "Cosmic City | Socials" },

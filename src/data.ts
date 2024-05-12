@@ -193,4 +193,52 @@ export const data: DataTypes[] = [
     image: "image/duck-life-4.png",
     embed: "https://games-site.github.io/projects/ducklife4/index.html",
   },
+  {
+    id: "funny-shooter",
+    title: "Funny Shooter",
+    image: "image/funny-shooter.png",
+    embed: "https://funnyshooter.github.io/file/",
+  },
+  {
+    id: "geometry-dash",
+    title: "Geometery Dash",
+    image: "https://upload.wikimedia.org/wikipedia/en/3/35/Geometry_Dash_Logo.PNG",
+    embed: "https://funnyshooter.github.io/g8/geometry-dash",
+  },
+  {
+    id: "drive-mad",
+    title: "Drive Mad",
+    image: "https://assets.about.me/background/users/d/r/i/drivemadorg_1695736496_582.jpg",
+    embed: "https://funnyshooter.github.io/g77/drive-mad/",
+  },
+  {
+    id: "swingo",
+    title: "Swingo",
+    image: "https://cdn-1.webcatalog.io/catalog/poki-swingo/poki-swingo-icon-filled-256.webp?v=1714778227971",
+    embed: "https://funnyshooter.github.io/g3/swingo/",
+  },
+  {
+    id: "tag",
+    title: "Tag",
+    image: "image/tag.png",
+    embed: "https://funnyshooter.github.io/g3/tag/",
+  },
+  {
+    id: "henry-stickman-std",
+    title: "Stealing The Diamond",
+    image: "image/henry-stickmin-std.png",
+    embed: "https://funnyshooter.github.io/g7/stealing-the-diamond/",
+  },
+  {
+    id: "henry-stickman-etp",
+    title: "Escaping The Prison",
+    image: "image/henry-stickmin-etp.png",
+    embed: "https://funnyshooter.github.io/g7/scaping-the-prison/",
+  },
+  {
+    id: "henry-stickman-ftc",
+    title: "Fleeing The Complex",
+    image: "image/henry-stickmin-ftc.png",
+    embed: "https://funnyshooter.github.io/g7/fleeing-the-complex//",
+  },
 ];
