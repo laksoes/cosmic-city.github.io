@@ -6,7 +6,11 @@ import Card from "../components/card";
 function Games() {
   const [results, setResults] = useState<DataTypes[]>(data);
   const [query, setQuery] = useState<string>("");
-
+  <Link to="/games">
+  <Button look="brand-2" className="mt-2">
+    Request a game
+  </Button>
+</Link>
   useEffect(() => {
     if (query.length > 0) {
       const found = data.filter((game) => {
