@@ -28,7 +28,9 @@ function Randomizer() {
       <>
         ik where u live... <Emoji src="/image/emojis/duo.png" />
       </>,
-      <>shh dont say anything</>,
+      <>
+      shh dont say anything <Emoji src="/image/emojis/shhmewing.gif" />
+      </>,
       <>are you a mewing king?</>,
       <>sigma ohio rizzler</>,
     ];
