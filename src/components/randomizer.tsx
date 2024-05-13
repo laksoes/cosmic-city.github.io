@@ -24,7 +24,7 @@ function Randomizer() {
       </>,
       <>alt+tab to switch windows</>,
       <>
-        your ip is <Emoji src="/image/emojis/duo.png" />
+        ik where u live... <Emoji src="/image/emojis/duo.png" />
       </>,
     ];
     const i = Math.floor(Math.random() * a.length);
