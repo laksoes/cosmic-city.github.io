@@ -34,7 +34,7 @@ function Game() {
         <>
           <Link to="/games">
             {" "}
-            <button className="bg-[#333] p-[8px_10px] m-2 text-sm transition absolute left-0 top-16 hover:bg-[#111] rounded">
+            <button className="bg-[#333] p-[8px_10px] m-2 text-sm text-white font-semibold transition absolute left-0 top-16 hover:bg-[#111] rounded">
               &lt;-- Back to Games
             </button>
           </Link>
