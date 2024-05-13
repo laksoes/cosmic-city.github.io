@@ -32,8 +32,6 @@ export const metadata = [
   { path: "game/fnaf-4", title: "FNAF 4 | Cosmic City" },
   { path: "game/subway-surfers", title: "Subway Surfers | Cosmic City" },
   { path: "game/vex-6", title: "Vex 6 | Cosmic City" },
-  { path: "game/duck-life-3", title: "Duck Life 3 | Cosmic City" },
-  { path: "game/duck-life-4", title: "Duck Life 4 | Cosmic City" },
   { path: "game/funny-shooter-2", title: "Funny Shooter 2 | Cosmic City" },
   { path: "game/geometry-dash", title: "Geometery Dash | Cosmic City" },
   { path: "game/drive-mad", title: "Drive Mad | Cosmic City" },

@@ -178,19 +178,6 @@ const data: DataTypes[] = [
     embed: "https://games-site.github.io/projects/vex6/index.html",
   },
   {
-    id: "duck-life-3",
-    title: "Duck Life 3",
-    image: "/image/duck-life-3.png",
-    embed:
-      "https://www.hoodamath.com/mobile/games/duck-life-3-evolution/game.html?nocheckorient=1",
-  },
-  {
-    id: "duck-life-4",
-    title: "Duck Life 4",
-    image: "/image/duck-life-4.png",
-    embed: "https://games-site.github.io/projects/ducklife4/index.html",
-  },
-  {
     id: "funny-shooter-2",
     title: "Funny Shooter 2",
     image: "/image/funny-shooter-2.jpeg",
