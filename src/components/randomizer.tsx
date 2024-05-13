@@ -4,24 +4,24 @@ function Randomizer() {
   const [random, setRandom] = useState<ReactNode | null>(null);
   const randomize = () => {
     const a = [
-      <p>idk what x² equals</p>,
-      <p>your cooked.</p>,
-      <p>This UI is very similar to nate-games 🤨</p>,
-      <p>i think there is a teacher behind you...</p>,
-      <p>use a remote computer to play roblox on ur chromebook.</p>,
-      <p>
+      <>idk what x² equals</>,
+      <>your cooked.</>,
+      <>This UI is very similar to nate-games 🤨</>,
+      <>i think there is a teacher behind you...</>,
+      <>use a remote computer to play roblox on ur chromebook.</>,
+      <>
         never gona give u up{" "}
         <img
           src="/image/emojis/rickroll.gif"
-          className="h-4 w-4 inline-block"
+          className="h-8 w-8 inline-block"
         />
-      </p>,
-      <p>gta6 = irl</p>,
-      <p>6 x 9 + 6 + 9 = 62</p>,
-      <p>Ctrl+shift+q+q gives you free v-bucks</p>,
-      <p>alt+tab to switch windows</p>,
-      <p>I know where you live</p>,
-      <p>spanish or vanish</p>,
+      </>,
+      <>gta6 = irl</>,
+      <>6 x 9 + 6 + 9 = 69</>,
+      <>Ctrl+shift+q+q gives you free v-bucks</>,
+      <>alt+tab to switch windows</>,
+      <>I know where you live</>,
+      <>spanish or vanish</>,
     ];
     const i = Math.floor(Math.random() * a.length);
     setRandom(a[i]);
@@ -32,7 +32,7 @@ function Randomizer() {
   }, []);
   return (
     <>
-      {random}
+      <p className="h-8">{random}</p>
       <button
         className="inline-flex justify-center items-center"
         onClick={() => randomize()}
