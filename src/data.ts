@@ -37,7 +37,7 @@ const data: DataTypes[] = [
     id: "basketball-stars",
     title: "Basketball Stars",
     image: "/image/basketball-stars.png",
-    embed: "https://cosmic-city.github.io/basketball-stars/",
+    embed: "https://webglmath.github.io/basketball-stars/",
   },
   {
     id: "run-3",
