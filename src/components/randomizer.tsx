@@ -18,6 +18,10 @@ function Randomizer() {
       </p>,
       <p>gta6 = irl</p>,
       <p>6 x 9 + 6 + 9 = 62</p>,
+      <p>Ctrl+shift+q+q gives you free v-bucks</p>,
+      <p>alt+tab to switch windows</p>,
+      <p>I know where you live</p>,
+      <p>spanish or vanish</p>,
     ];
     const i = Math.floor(Math.random() * a.length);
     setRandom(a[i]);
