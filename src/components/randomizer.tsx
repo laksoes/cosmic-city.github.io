@@ -2,26 +2,30 @@ import { useEffect, useState, ReactNode } from "react";
 
 function Randomizer() {
   const [random, setRandom] = useState<ReactNode | null>(null);
+  const Emoji = ({ src }: { src: string }) => {
+    return <img src={src} className="h-8 w-8 inline-block" />;
+  };
   const randomize = () => {
     const a = [
       <>idk what x² equals</>,
       <>your cooked.</>,
-      <>This UI is very similar to nate-games 🤨</>,
-      <>i think there is a teacher behind you...</>,
-      <>use a remote computer to play roblox on ur chromebook.</>,
       <>
-        never gona give u up{" "}
-        <img
-          src="/image/emojis/rickroll.gif"
-          className="h-8 w-8 inline-block"
-        />
+        This UI is very similar to nate-games{" "}
+        <Emoji src="/image/emojis/sus.png" />
+      </>,
+      <>roblox &lt; minecraft & fortnite</>,
+      <>
+        never gona give u up <Emoji src="/image/emojis/rickroll.gif" />
       </>,
       <>gta6 = irl</>,
-      <>6 x 9 + 6 + 9 = 69</>,
-      <>Ctrl+shift+q+q gives you free v-bucks</>,
+      <>
+        off+reload gives you free v-bucks{" "}
+        <Emoji src="/image/emojis/mewing.gif" />
+      </>,
       <>alt+tab to switch windows</>,
-      <>I know where you live</>,
-      <>spanish or vanish</>,
+      <>
+        your ip is <Emoji src="/image/emojis/duo.png" />
+      </>,
     ];
     const i = Math.floor(Math.random() * a.length);
     setRandom(a[i]);
