@@ -1,6 +1,8 @@
 export const metadata = [
   { path: "game/ovo", title: "OvO | Cosmic City" },
   { path: "game/1v1-lol", title: "1v1.LOL | Cosmic City" },
+  { path: "game/justfall-lol", title: "JustFall.LOL | Cosmic City" },
+  { path: "game/cluster-rush", title: "Cluster Rush | Cosmic City" },
   { path: "game/2048", title: "2048 | Cosmic City" },
   { path: "game/stickman-hook", title: "Stickman Hook | Cosmic City" },
   { path: "game/drift-hunters", title: "Drift Hunters | Cosmic City" },
@@ -21,7 +23,6 @@ export const metadata = [
   { path: "game/among-us", title: "Among Us | Cosmic City" },
   { path: "game/moto-x3m", title: "Moto X3M | Cosmic City" },
   { path: "game/bitlife", title: "BitLife | Cosmic City" },
-  { path: "game/bottle-flip-3d", title: "Bottle Flip 3D | Cosmic City" },
   { path: "game/color-switch", title: "Color Switch | Cosmic City" },
   { path: "game/google-snake", title: "Google Snake | Cosmic City" },
   { path: "game/color-road", title: "Color Road | Cosmic City" },

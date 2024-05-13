@@ -16,6 +16,27 @@ const data: DataTypes[] = [
     embed: "https://webglmath.github.io/1v1-lol/",
   },
   {
+    id: "justfall-lol",
+    title: "JustFall.LOL",
+    image:
+      "https://play-lh.googleusercontent.com/-0rSllZ8as88Jcs3iZ7-JCFyTb3YLB-HjR7bY7P6q_2MAswmDH4h1qNPfFiaZqzkkg",
+    embed: "https://just-fall.github.io/file/",
+  },
+  {
+    id: "cluster-rush",
+    title: "Cluster Rush",
+    image:
+      "https://raw.githubusercontent.com/OutRed/outred-assets-cdn.outred.org/main/cluster-rush/splash.png",
+    embed: "https://webglmath.github.io/cluster-rush/",
+  },
+  {
+    id: "bottle-flip-3d",
+    title: "Bottle Flip 3D",
+    image:
+      "https://play-lh.googleusercontent.com/sMpJpTPMtTMr9tfusBtbWIz_h2UdX3iwx8Ea4w6vJ-0vyFILvpIMj_JvwVSeS6Xq0bg",
+    embed: "https://webglmath.github.io/bottle-flip-3d/",
+  },
+  {
     id: "2048",
     title: "2048",
     image: "/image/2048.png",
@@ -105,13 +126,6 @@ const data: DataTypes[] = [
     image:
       "https://d.newsweek.com/en/full/1317374/bitlife-ribbons-how-get-all-complete-list-android-ios-cheats-guide-tips-become.jpg?w=1600&h=1600&q=88&f=75befc746fb83a0c568c44ca07bc5e64",
     embed: "https://xlegends.github.io/bitlife/",
-  },
-  {
-    id: "bottle-flip-3d",
-    title: "Bottle Flip 3D",
-    image:
-      "https://play-lh.googleusercontent.com/sMpJpTPMtTMr9tfusBtbWIz_h2UdX3iwx8Ea4w6vJ-0vyFILvpIMj_JvwVSeS6Xq0bg",
-    embed: "https://webglmath.github.io/bottle-flip-3d/",
   },
   {
     id: "color-switch",
