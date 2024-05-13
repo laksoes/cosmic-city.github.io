@@ -10,7 +10,7 @@ function Randomizer() {
       <>idk what x² equals</>,
       <>your cooked.</>,
       <>
-        This UI is very similar to nate-games{" "}
+        This UI is very similar to something...{" "}
         <Emoji src="/image/emojis/sus.png" />
       </>,
       <>roblox &lt; minecraft & fortnite</>,
