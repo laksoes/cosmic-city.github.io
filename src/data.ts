@@ -167,9 +167,10 @@ const data: DataTypes[] = [
   {
     id: "subway-surfers",
     title: "Subway Surfers",
-    image: "/image/subway-surfers.png",
+    image:
+      "https://play-lh.googleusercontent.com/EUjmw0zMsfpHQZEkX8eaAlBj7tVMyyhGimwDWU8a01TkUdi57ZbgqaitJXIoEZaU2_I",
     embed:
-      "https://static.wikia.nocookie.net/subwaysurf/images/6/64/BuenosAires2023_Icon.png",
+      "https://games-site.github.io/projects/subway-surfers-unity/index.html",
   },
   {
     id: "vex-6",
