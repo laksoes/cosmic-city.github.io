@@ -21,13 +21,12 @@ function Card({ id }: { id: string }) {
     <>
       {game ? (
         <Link to={`/game/${id}`}>
-          <div
-            className={`group relative inline-block bg-[#111] h-36 w-36 rounded-xl transition active:scale-90 hover:opacity-75 bg-cover bg-center`}
-            style={{
-              backgroundImage: `url("${game.image}")`,
-            }}
-          >
-            <span className="opacity-0 px-0 mx-0 -bottom-1 transition-all duration-150 absolute group-hover:inline-block group-hover:bottom-0 group-hover:opacity-100 left-1/2 -translate-x-1/2 -translate-y-1/2 font-bold text-sm text-white [text-shadow:0px_0px_0.2rem_#000]">
+          <div className="group relative overflow-hidden inline-flex justify-center items-center bg-[#111] h-36 w-36 rounded-xl transition active:scale-90">
+            <img
+              src={game.image}
+              className="w-full h-full absolute object-cover group-hover:opacity-75"
+            />
+            <span className="opacity-0 px-0 mx-0 -bottom-2 max-w-28 mb-2 transition-all duration-200 absolute group-hover:bottom-0 group-hover:opacity-100 font-bold text-sm text-white [text-shadow:0px_0px_0.2rem_#000]">
               {game.title}
             </span>
           </div>

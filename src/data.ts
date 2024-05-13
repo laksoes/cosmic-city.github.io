@@ -1,6 +1,6 @@
 import { DataTypes } from "./types";
 
-export const data: DataTypes[] = [
+const data: DataTypes[] = [
   {
     id: "ovo",
     title: "OvO",
@@ -96,7 +96,7 @@ export const data: DataTypes[] = [
   {
     id: "moto-x3m",
     title: "Moto X3M",
-    image: "image/moto-x3m.png",
+    image: "/image/moto-x3m.png",
     embed: "https://webglmath.github.io/moto-x3m/",
   },
   {
@@ -142,103 +142,87 @@ export const data: DataTypes[] = [
   {
     id: "paper-io-2",
     title: "Paper.io 2",
-    image: "image/paper-io-2.png",
+    image:
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/6a/3c/916a3c18-9805-7a78-5fd3-983b0d8dae8b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x0w.png",
     embed: "https://games-site.github.io/projects/paperio2/index.html",
   },
   {
     id: "fnaf-2",
     title: "FNAF 2",
-    image: "image/fnaf-2.png",
+    image: "/image/fnaf-2.png",
     embed: "https://games-site.github.io/projects/fnaf-2/index.html",
   },
   {
     id: "fnaf-3",
     title: "FNAF 3",
-    image: "image/fnaf-3.png",
+    image: "/image/fnaf-3.png",
     embed: "https://games-site.github.io/projects/fnaf-3/index.html",
   },
   {
     id: "fnaf-4",
     title: "FNAF 4",
-    image: "image/fnaf-4.png",
+    image: "/image/fnaf-4.png",
     embed: "https://games-site.github.io/projects/fnaf-4/index.html",
-  },
-  {
-    id: "rocketpult",
-    title: "Rocketpult",
-    image: "image/rocketpult.png",
-    embed: "https://games-site.github.io/projects/rocketpult/index.html",
   },
   {
     id: "subway-surfers",
     title: "Subway Surfers",
-    image: "image/subway-surfers.png",
-    embed: "https://games-site.github.io/projects/subway-surfers-unity/index.html",
+    image: "/image/subway-surfers.png",
+    embed:
+      "https://static.wikia.nocookie.net/subwaysurf/images/6/64/BuenosAires2023_Icon.png",
   },
   {
     id: "vex-6",
     title: "Vex 6",
-    image: "image/vex-6.png",
+    image: "/image/vex-6.png",
     embed: "https://games-site.github.io/projects/vex6/index.html",
   },
   {
     id: "duck-life-3",
     title: "Duck Life 3",
-    image: "image/duck-life-3.png",
-    embed: "https://www.hoodamath.com/mobile/games/duck-life-3-evolution/game.html?nocheckorient=1",
+    image: "/image/duck-life-3.png",
+    embed:
+      "https://www.hoodamath.com/mobile/games/duck-life-3-evolution/game.html?nocheckorient=1",
   },
   {
     id: "duck-life-4",
     title: "Duck Life 4",
-    image: "image/duck-life-4.png",
+    image: "/image/duck-life-4.png",
     embed: "https://games-site.github.io/projects/ducklife4/index.html",
   },
   {
-    id: "funny-shooter",
-    title: "Funny Shooter",
-    image: "image/funny-shooter.png",
+    id: "funny-shooter-2",
+    title: "Funny Shooter 2",
+    image: "/image/funny-shooter-2.jpeg",
     embed: "https://funnyshooter.github.io/file/",
   },
   {
     id: "geometry-dash",
     title: "Geometery Dash",
-    image: "https://upload.wikimedia.org/wikipedia/en/3/35/Geometry_Dash_Logo.PNG",
+    image:
+      "https://play-lh.googleusercontent.com/ixHXzBWPmmKWIBxDMfjbIXK10UQCTDvIYOcs_uLXHCRbdsz2siJFYfb7MqckU8eC3Ks",
     embed: "https://funnyshooter.github.io/g8/geometry-dash",
   },
   {
     id: "drive-mad",
     title: "Drive Mad",
-    image: "https://assets.about.me/background/users/d/r/i/drivemadorg_1695736496_582.jpg",
+    image:
+      "https://assets.about.me/background/users/d/r/i/drivemadorg_1695736496_582.jpg",
     embed: "https://funnyshooter.github.io/g77/drive-mad/",
   },
   {
     id: "swingo",
     title: "Swingo",
-    image: "https://cdn-1.webcatalog.io/catalog/poki-swingo/poki-swingo-icon-filled-256.webp?v=1714778227971",
+    image:
+      "https://cdn-1.webcatalog.io/catalog/poki-swingo/poki-swingo-icon-filled-256.webp?v=1714778227971",
     embed: "https://funnyshooter.github.io/g3/swingo/",
   },
   {
     id: "tag",
     title: "Tag",
-    image: "image/tag.png",
+    image: "/image/tag.png",
     embed: "https://funnyshooter.github.io/g3/tag/",
   },
-  {
-    id: "henry-stickman-std",
-    title: "Stealing The Diamond",
-    image: "image/henry-stickmin-std.png",
-    embed: "https://funnyshooter.github.io/g7/stealing-the-diamond/",
-  },
-  {
-    id: "henry-stickman-etp",
-    title: "Escaping The Prison",
-    image: "image/henry-stickmin-etp.png",
-    embed: "https://funnyshooter.github.io/g7/scaping-the-prison/",
-  },
-  {
-    id: "henry-stickman-ftc",
-    title: "Fleeing The Complex",
-    image: "image/henry-stickmin-ftc.png",
-    embed: "https://funnyshooter.github.io/g7/fleeing-the-complex//",
-  },
 ];
+
+export { data, type DataTypes };
