@@ -32,6 +32,9 @@ function Game() {
     <>
       {game ? (
         <>
+          <button className="bg-[#333] p-[8px_10px] m-2 text-sm transition absolute left-0 top-16 hover:bg-[#111] rounded">
+            &lt;-- Back to Games
+          </button>
           <div
             ref={frame}
             className="aspect-video h-[36rem] relative rounded mb-2"
