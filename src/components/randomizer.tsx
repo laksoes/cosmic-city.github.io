@@ -36,7 +36,7 @@ function Randomizer() {
   }, []);
   return (
     <>
-      <p className="h-8">{random}</p>
+      <p className="h-8 flex justify-center items-center">{random}</p>
       <button
         className="group inline-flex justify-center items-center transition-all active:rotate-[-360deg] active:scale-75"
         onClick={() => randomize()}
