@@ -9,6 +9,8 @@ function Randomizer() {
     const a = [
       <>idk what x² equals</>,
       <>your cooked.</>,
+      <>Is that a teacher behind you?</>,
+      <>Erm, What the sigma?</>,
       <>
         This UI is very similar to something...{" "}
         <Emoji src="/image/emojis/sus.png" />
@@ -26,6 +28,9 @@ function Randomizer() {
       <>
         ik where u live... <Emoji src="/image/emojis/duo.png" />
       </>,
+      <>shh dont say anything</>,
+      <>are you a mewing king?</>,
+      <>sigma ohio rizzler</>,
     ];
     const i = Math.floor(Math.random() * a.length);
     setRandom(a[i]);
